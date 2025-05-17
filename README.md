@@ -10,7 +10,7 @@ I am a student passionate about software development and game creation. C#, Java
   - React.js
   - Python
 - 👯 I’m looking forward to collaborating on open-source projects, especially in gaming, education, or creative tools.
-- ✔ Ask me anything — I’m always happy to help and share what I know! br>
+- ✔ Ask me anything — I’m always happy to help and share what I know! 
 - Outside tech, 🎥 I enjoy recording and editing videos for YouTube, and 🌎 I love exploring new ideas and challenges.
 - 📫 Reach out to me here on GitHub if you'd like to connect or collaborate!
 
