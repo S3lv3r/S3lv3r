@@ -7,8 +7,8 @@
 I am a student passionate about software development and game creation. C#, JavaScript, HTML, and CSS are the programming languages I’m good at. I love to learn and build new things that are productive, creative, and fun to use.
 * **I am interested in game development, web design, and building educational or entertainment-focused applications.**
 - 🌱 I’m currently learning ...
-  - React.js
-  - Python
+  - Typescript
+  - Laravel
 - 👯 I’m looking forward to collaborating on open-source projects, especially in gaming, education, or creative tools.
 - ✔ Ask me anything — I’m always happy to help and share what I know! 
 - Outside tech, 🎥 I enjoy recording and editing videos for YouTube, and 🌎 I love exploring new ideas and challenges.
