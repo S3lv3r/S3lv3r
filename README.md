@@ -1,8 +1,7 @@
 # Fernando Flores
 ### Software Developer | Game & App Creator | Always Building Something
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernanfcc3098@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernanfc3098@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 
 ---
@@ -69,8 +68,7 @@ I'm actively seeking opportunities to contribute to open-source projects, partic
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through:
 
 - **GitHub**: Open an issue or start a discussion in any of my repositories
-- **Email**: [your-email@example.com](mailto:fernanfc3098@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](your-linkedin-url)
+- **Email**: [fernanfc3098@gmail.com](mailto:fernanfc3098@gmail.com)
 
 ---
 
