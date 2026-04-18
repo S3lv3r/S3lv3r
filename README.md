@@ -1,22 +1,22 @@
 # Fernando Flores
 ### Software Developer | Game & App Creator | Always Building Something
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernanfc3098@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=fernanfc3098@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I’m Fernando, a software developer who loves turning ideas into interactive experiences — whether it’s a game about anyway, an educational app for kids, or a platform that connects people with professionals.
+Hi, I’m Fernando, a software developer focused on building interactive and meaningful digital experiences. I enjoy transforming ideas into products, whether that’s a game, an educational application, or a platform that connects people with real-world services.
 
-I started coding out of curiosity and ended up creating my own mini ecosystem of projects: from Unity games to .NET MAUI apps and websites built with React.
-My focus is simple: build things that teach, entertain, or help others grow.
+I began programming out of curiosity, which evolved into developing a diverse ecosystem of projects ranging from Unity-based games to cross-platform applications with .NET MAUI, as well as modern web interfaces using React.
 
-**Some of my favorite projects**
-- Jobbara — mobile app connecting users with tradespeople (Firebase + .NET MAUI).
-- Vally — math learning app for kids (Windows Forms & MAUI versions).
-- Vectis Drive — truck simulator with database and online system in progress.
+My goal is straightforward: create solutions that educate, engage, or provide real value to others.
+
+**Highlighted Projects**
+- Jobbara — Mobile application that connects users with local service providers (Firebase, .NET MAUI).
+- Vally — Educational math application for children (Windows Forms and .NET MAUI).
+- Vectis Drive — Truck simulation game featuring a database-driven system and planned online functionality.
 ---
 
 ## 🛠️ Technical Skills
