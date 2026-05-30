@@ -38,5 +38,4 @@ A complete hardware-to-cloud tracking solution.
 
 ---
 
-## 📊 GitHub Analytics
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=s3lv3r&show_icons=true&theme=radical)
+
